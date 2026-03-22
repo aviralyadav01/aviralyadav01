@@ -5,11 +5,11 @@
 
 ## About Me
 
-- 🔭 Currently working on **[your current project, e.g. a Spring Boot REST API]**
-- 🌱 Learning **[e.g. Spring Boot, Microservices, Hibernate]**
+- 🔭 Currently working on **[ a Spring Boot REST API]**
+- 🌱 Learning **[Spring Boot, Microservices, Hibernate]**
 - 💬 Ask me about **Java, OOP, Data Structures**
 - 📫 Reach me at **aviral.x91@gmail.com**
-- ⚡ Fun fact: **[something personal or interesting about you]**
+- ⚡ Fun fact: **[I google better than I code, but it still works 😎]**
 
 <br/>
 
