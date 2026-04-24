@@ -17,8 +17,8 @@ I'm a **Full Stack MERN Developer** who believes great software is built on **cl
 | 🔭 **Specialty** | Full Stack — MongoDB · Express · React · Node.js |
 | 🏛️ **Architecture** | Clean Architecture, SOLID principles, Domain-Driven Design |
 | 🧪 **Methodology** | Test-Driven Development (TDD) — Red → Green → Refactor |
-| 🌍 **Location** | Your City, Country |
-| 📬 **Reach me** | your.email@example.com |
+| 🌍 **Location** | Noida , Uttar Pradesh , India |
+| 📬 **Reach me** | aviral.x91@gmail.com |
 | 💬 **Ask me about** | REST APIs, React patterns, backend design, testing strategies |
 
 ---
