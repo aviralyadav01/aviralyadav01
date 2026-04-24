@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aviral Yadav 👋</h1>
-<h3 align="center">Java Developer | Building robust backend systems</h3>
+<h3 align="center">FULL STACK Developer | Building robust backend systems</h3>
 
 <br/>
 
